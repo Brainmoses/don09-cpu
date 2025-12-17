@@ -2,14 +2,14 @@
 
 <p align="center">
   <a href="https://github.com/Dark-Xploit/SPACE-MD">
-    <img alt="SPACE-MD docs" height="350" src="https://files.catbox.moe/se5e6e.jpg">
+    <img alt="virus-XD docs" height="350" src="https://files.catbox.moe/se5e6e.jpg">
   </a>
 </p>
     
 </a>
 </p>
 <p align="center">
-<a href="https://github.com/Dark-Xploit"><img title="Author" src="https://img.shields.io/badge/SPACE-MD-darkgreen?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/heroku"><img title="Author" src="https://img.shields.io/badge/virus-XD-darkgreen?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 !--
 **don09-cpu/don09-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
