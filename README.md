@@ -13,10 +13,10 @@
 src="https://img.shields.io/badge/virus-XD-darkgreen?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 <p align="center">
-    <strong>2. SESSION ID & DEPLOYMENTS</strong>
+    <strong>1. SESSION ID & DEPLOYMENTS</strong>
     <br>
     <a href="https://www.virus-XD.space/" target="_blank">
-        <img alt="WEBSITE" src="https://img.shields.io/badge/Let%27s_Go-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred"/>
+        <img alt="WEBSITE" src="https://img.shields.io/badge/virus-XD-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred"/>
     </a>
 </p>
   >!--
