@@ -33,7 +33,8 @@ src="https://img.shields.io/badge/virus-XD-darkgreen?style=for-the-badge&logo=wh
   </a>
 
 
-  !--
+</a>
+</p>!--
 **don09-cpu/don09-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -48,9 +49,5 @@ Here are some ideas to get you started:
 - ⭐ how to get -pair code: ... 
 -  🔮 music: ...
 -  ⭐ how to deploy: ..
--  🔮 I'm currently working on pair... 
+-  🔮 I'm currently working on pair..."</a><scr>
 
-<p align="center">
-  <a href="https://render.com" target="_blank" rel="noopener noreferrer">
-    <img title="DEPLOY ON RENDER" src="https://img.shields.io/badge/🚀_DEPLOY_ON_RENDER-000000?style=for-the-badge&logo=render&logoColor=white&color=61DAFB" width="260" height="50"/>
-  </a>
