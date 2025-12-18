@@ -1,5 +1,12 @@
 <h1 align="center"> Virus-254-xD </h1>
 
+ <br>
+  <a href="https://files.catbox.moe/se5e6e.jpg"> 
+    <img src="https://readme-typing-svg.demolab.com?font=Rockwell&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=June-Official;Multi+Device+Whatsapp+Bot;Made+by+supreme" alt="Typing SVG" />
+  </a> 
+</div> 
+
+
 <p align="center">
   <a href="https://github.com/Dark-Xploit/SPACE-MD">
     <img alt="virus-XD docs" height="350" src="https://files.catbox.moe/se5e6e.jpg">
