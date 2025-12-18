@@ -28,7 +28,13 @@ src="https://img.shields.io/badge/virus-XD-darkgreen?style=for-the-badge&logo=wh
 <br> 
 
 
-
+    <strong>1. SESSION ID & DEPLOYMENTS</strong>
+    <br>
+    
+<p align="center">
+  <a href="https://render.com" target="_blank" rel="noopener noreferrer">
+    <img title="DEPLOY ON RENDER" src="https://img.shields.io/badge/🚀_DEPLOY_ON_RENDER-000000?style=for-the-badge&logo=render&logoColor=white&color=61DAFB" width="260" height="50"/>
+  </a>
 
 
   !--
