@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/Dark-Xploit/SPACE-MD">
-    <img alt="virus-XD docs" height="350" src="https://files.catbox.moe/se5e6e.jpg">
+    <img alt="virus-XD docs" height="350" src="https://files.catbox.moe/t5nmqt.jpg">
   </a>
 </p>
     
