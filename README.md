@@ -16,7 +16,7 @@ src="https://img.shields.io/badge/virus-XD-darkgreen?style=for-the-badge&logo=wh
     <strong>1. SESSION ID & DEPLOYMENTS</strong>
     <br>
     <a href="https://www.cypher x.space/" target="_blank">
-        <img alt="WEBSITE" src="https://img.shields.io/badge/virus-XD-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred"/>
+        <img alt="WEBSITE" src="https://img.shields.io/badge/cyherx-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred"/>
     </a>
 </p>
   >!--
