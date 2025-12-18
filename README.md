@@ -12,6 +12,10 @@
   </a>
 </p>
     
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=FF00FF&background=000000&center=true&vCenter=true&width=400&lines=🌍+virus+Pulse:+Alive😍+follow+me+on+WhatsApp;🔮++254710329917+WhatsApp+Bot;🤪+Always+Online!" alt="Quantum Pulse Animation">
+</p>
+
+
 </a>
 </p>
 <p align="center">
