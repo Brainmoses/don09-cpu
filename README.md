@@ -15,9 +15,12 @@ src="https://img.shields.io/badge/virus-XD-darkgreen?style=for-the-badge&logo=wh
 <p align="center">
     <strong>1. SESSION ID & DEPLOYMENTS</strong>
     <br>
-    <a href="https://www.cypher x.space/" target="_blank">
-        <img alt="WEBSITE" src="https://img.shields.io/badge/cyherx-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred"/>
-    </a>
+      > **Bot File(Panel Deployment)**
+
+<a href='https://www.mediafire.com/file/apl94yye6rc7jbh/BELLAH_XMD_V2.zip/file' target="_blank">
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Zip%20Here-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
+</a>
+<br>
 </p>
   >!--
 **don09-cpu/don09-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
