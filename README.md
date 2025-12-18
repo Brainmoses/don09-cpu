@@ -16,19 +16,11 @@ src="https://img.shields.io/badge/virus-XD-darkgreen?style=for-the-badge&logo=wh
     <strong>1. SESSION ID & DEPLOYMENTS</strong>
     <br>
 
-<a href='https://www.mediafire.com/file/apl94yye6rc7jbh/BELLAH_XMD_V2.zip/file' target="_blank">
-  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Zip%20Here-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
-</a>
-<br>
-</p>
-
-
- <a href='https://vol-tah-web.vercel.app/' target="_blank">
+<a href='https://vol-tah-web.vercel.app/' target="_blank">
   <img alt='VolTah Deploy' src='https://img.shields.io/badge/Deploy%20VolTah%20Xmd-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
-
-
+>
 
 
 
