@@ -11,8 +11,9 @@
     <img alt="virus-XD docs" height="1000" src="https://files.catbox.moe/t5nmqt.jpg">
   </a>
 </p>
-       <img src="https://readme-typing-svg.demolab.com?font=Rockwell&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=🌍+virus+Pulse:+Alive😍+follow+me+on+WhatsApp;🔮++254710329917+WhatsApp+Bot;🤪+Always+Online!" alt="Quantum Pulse Animation">
-</p>
+       <img src="https://readme-typing-svg.demolab.com?font=Rockwell&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=virus+Pulse:+Alive😍+follow+me+on+WhatsApp;🔮++254710329917+WhatsApp+Bot;🤪+Always+Online!" alt="Typing SVG" />
+  </a> 
+</div> 
 
 
 </a>
